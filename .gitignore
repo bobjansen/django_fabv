@@ -1,0 +1,5 @@
+*.pyc
+*.gz
+*.zip
+MANIFEST
+dist
