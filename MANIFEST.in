@@ -1,0 +1,3 @@
+recursive-include django_fabv *
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
