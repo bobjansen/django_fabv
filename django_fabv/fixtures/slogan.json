@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "fabv.experiment", "fields": {"name": "Slogan", "short_name": "slogan"}}, {"pk": 6, "model": "fabv.test", "fields": {"content": "foo", "experiment": 1, "name": "Foo slogan"}}, {"pk": 7, "model": "fabv.test", "fields": {"content": "bar", "experiment": 1, "name": "Bar slogan"}}]
