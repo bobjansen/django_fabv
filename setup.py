@@ -4,6 +4,7 @@ from distutils.core import setup
 setup(
     name = 'django_fabv',
     version = '0.1.0',
+    url = 'https://pypi.python.org/pypi/django_fabv/0.1.0',
     packages = ['django_fabv',],
     license = '3-clause BSD',
     author = 'Bob Jansen',
