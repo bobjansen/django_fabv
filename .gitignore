@@ -3,3 +3,10 @@
 *.zip
 MANIFEST
 dist
+example/Scripts
+example/bin
+example/build
+example/include
+example/local
+example/lib
+example/src
