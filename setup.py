@@ -14,5 +14,5 @@ setup(
     author = 'Bob Jansen',
     author_email = 'bob.jansen@veneficus.nl',
     description = 'A/B module for Django based on ABingo',
-    long_description=open('README').read(),
+    long_description=open('README.txt').read(),
 )
