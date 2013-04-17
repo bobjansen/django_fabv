@@ -6,7 +6,7 @@ except ImportError:
 
 setup(
     name = 'django_fabv',
-    version = '0.1.0dev',
+    version = '0.1.1',
     url = 'https://pypi.python.org/pypi/django_fabv/0.1.0',
     include_package_data=True,
     packages=find_packages(),
