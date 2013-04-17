@@ -2,7 +2,15 @@
 *.gz
 *.zip
 MANIFEST
+dev
 dist
+Scripts
+bin
+build
+include
+local
+lib
+src
 example/Scripts
 example/bin
 example/build
@@ -10,3 +18,4 @@ example/include
 example/local
 example/lib
 example/src
+manage.py
