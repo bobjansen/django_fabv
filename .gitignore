@@ -4,6 +4,7 @@
 MANIFEST
 dev
 dist
+django_fabv.egg-info
 Scripts
 bin
 build
